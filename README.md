@@ -1,6 +1,6 @@
 ### Hi there, I'm Asim, a software developer.👋
 
-#### Forward-thinking Software Engineer with background working effectively in dynamic environments. Worked in java script and react js programming languages used to develop software within company. Proud team player focused on achieving project objectives with speed and accuracy. Software developer with over 2 years of successful experience in web development and mobile development. Recognized consistently for performance excellence and contributions to success in the   industry. Strengths in java script and react backed by training in development.
+#### Forward-thinking Software Engineer with background working effectively in dynamic environments. Worked in java script and react js programming languages used to develop software within company. Proud team player focused on achieving project objectives with speed and accuracy. Software developer with over 3 years of successful experience in web development and mobile development. Recognized consistently for performance excellence and contributions to success in the   industry. Strengths in java script and react backed by training in development.
 
 
 - 🌱 I’m currently learning everything 🤣
