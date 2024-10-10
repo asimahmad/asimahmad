@@ -35,6 +35,10 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/951c1f8a3d8dc8f1b6b1e70f19aa5a6018f9f9f3/topics/tailwind/tailwind.png" />
+<img align="left" alt="Swiper" width="26px" src="https://swiperjs.com/images/share-banner-1.png" />
+<img align="left" alt="Shopify" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/shopify/shopify.png" />
+
 
 <br />
 <br />
